@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "207484506006",
+    "firebase_url": "https://pharmaquick-617ce.firebaseio.com",
+    "project_id": "pharmaquick-617ce",
+    "storage_bucket": "pharmaquick-617ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207484506006:android:e31dc9d8e52a6085",
+        "android_client_info": {
+          "package_name": "com.civilizedtechnologies.pharmaquick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207484506006-idq9brv0fdvm3868h180hhuk0ko7pq6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCllCpZy_M4TnAjO3bLzinY7rDkTSJtbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
